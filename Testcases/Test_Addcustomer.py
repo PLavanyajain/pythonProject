@@ -1,7 +1,7 @@
-import pytest
 import string
 import random
 import time
+import pytest
 from PageObjectModel.LoginPage import Login
 from PageObjectModel.AddCustomerPage import  AddCustomer
 from selenium import webdriver

@@ -3,8 +3,7 @@ from selenium import webdriver
 from PageObjectModel.LoginPage import Login
 from Utilities.readProperties import Readconfig
 from  Utilities.customLogger import LogGen
-#from webdriver_manager.chrome import ChromeDriverManager
-
+import pytest
 class Test_001_Login:
     baseUrl = Readconfig.getApplicationURL()
     Username = Readconfig.getUserName()
