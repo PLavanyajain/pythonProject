@@ -471,3 +471,11 @@ INFO:WDM:Driver [C:\Users\Lavanya\.wdm\drivers\geckodriver\win64\v0.28.0\geckodr
 INFO:WDM:Trying to download new driver from http://selenium-release.storage.googleapis.com/3.150/IEDriverServer_x64_3.150.1.zip
 INFO:WDM:Driver has been saved in cache [C:\Users\Lavanya\.wdm\drivers\IEDriverServer\x64\3.150.1]
 INFO:root:************Test_003_Login*******************
+INFO:WDM:Current google-chrome version is 87.0.4280
+INFO:WDM:Get LATEST driver version for 87.0.4280
+INFO:WDM:Get LATEST driver version for 87.0.4280
+INFO:WDM:Trying to download new driver from http://chromedriver.storage.googleapis.com/87.0.4280.20/chromedriver_win32.zip
+INFO:WDM:Driver has been saved in cache [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.20]
+INFO:root:************Test_006_Login*******************
+INFO:root:**************Login succesfully*****************
+INFO:root:**************Test_Export the file to excel*****************
