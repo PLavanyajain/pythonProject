@@ -479,3 +479,73 @@ INFO:WDM:Driver has been saved in cache [C:\Users\Lavanya\.wdm\drivers\chromedri
 INFO:root:************Test_006_Login*******************
 INFO:root:**************Login succesfully*****************
 INFO:root:**************Test_Export the file to excel*****************
+INFO:WDM:Current google-chrome version is 87.0.4280
+INFO:WDM:Get LATEST driver version for 87.0.4280
+INFO:WDM:Get LATEST driver version for 87.0.4280
+INFO:WDM:Trying to download new driver from http://chromedriver.storage.googleapis.com/87.0.4280.20/chromedriver_win32.zip
+INFO:WDM:Driver has been saved in cache [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.20]
+INFO:root:************Test_003_Login*******************
+INFO:root:**************Login succesfully*****************
+INFO:root:*******************Starting Add Customer Test***************************
+INFO:root:********Providing customer info***************
+INFO:root:*******Saving customer info*******
+INFO:root:*******Add customer validation started*******
+INFO:root:*************Add customer failed*******************
+INFO:root:***********End of Homepage title test****************
+INFO:WDM:Current google-chrome version is 87.0.4280
+INFO:WDM:Get LATEST driver version for 87.0.4280
+INFO:WDM:Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.20\chromedriver.exe] found in cache
+INFO:root:************Test_001_Login*************
+INFO:root:************verifiying homepage************
+INFO:root:************homepage test passed*************
+INFO:WDM:Current google-chrome version is 87.0.4280
+INFO:WDM:Get LATEST driver version for 87.0.4280
+INFO:WDM:Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.20\chromedriver.exe] found in cache
+INFO:root:************test_Loginpage passed*************
+INFO:WDM:Current google-chrome version is 87.0.4280
+INFO:WDM:Get LATEST driver version for 87.0.4280
+INFO:WDM:Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.20\chromedriver.exe] found in cache
+INFO:root:************Test_002_DDT_Login************
+INFO:root:************test_Loginpage_DDT veriying*************
+INFO:root:*******condition passed*******
+INFO:root:*******condition failed*******
+INFO:root:*******condition passed*******
+INFO:root:*********Login DDT test failed***************
+INFO:WDM:Current google-chrome version is 87.0.4280
+INFO:WDM:Get LATEST driver version for 87.0.4280
+INFO:WDM:Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.20\chromedriver.exe] found in cache
+INFO:root:************Test_006_Login*******************
+INFO:root:**************Login succesfully*****************
+INFO:root:**************Test_Export the file to excel*****************
+INFO:WDM:Current google-chrome version is 87.0.4280
+INFO:WDM:Get LATEST driver version for 87.0.4280
+INFO:WDM:Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.20\chromedriver.exe] found in cache
+INFO:root:************Test_004_Login*******************
+INFO:root:**************Login succesfully*****************
+INFO:root:********searching for customer by emailId***************
+INFO:WDM:Current google-chrome version is 87.0.4280
+INFO:WDM:Get LATEST driver version for 87.0.4280
+INFO:WDM:Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.20\chromedriver.exe] found in cache
+INFO:root:************Test_004_Login*******************
+INFO:root:**************Login succesfully*****************
+INFO:root:********searching for customer by Name***************
+INFO:WDM:Current google-chrome version is 87.0.4280
+INFO:WDM:Get LATEST driver version for 87.0.4280
+INFO:WDM:Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.20\chromedriver.exe] found in cache
+INFO:root:************Test_003_Login*******************
+INFO:WDM:Current google-chrome version is 87.0.4280
+INFO:WDM:Get LATEST driver version for 87.0.4280
+INFO:WDM:Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.20\chromedriver.exe] found in cache
+INFO:root:************Test_001_Login*************
+INFO:root:************verifiying homepage************
+INFO:WDM:Current google-chrome version is 87.0.4280
+INFO:WDM:Get LATEST driver version for 87.0.4280
+INFO:WDM:Driver [C:\Users\Lavanya\.wdm\drivers\chromedriver\win32\87.0.4280.20\chromedriver.exe] found in cache
+INFO:root:************Test_003_Login*******************
+INFO:root:**************Login succesfully*****************
+INFO:root:*******************Starting Add Customer Test***************************
+INFO:root:********Providing customer info***************
+INFO:root:*******Saving customer info*******
+INFO:root:*******Add customer validation started*******
+INFO:root:*************Add customer failed*******************
+INFO:root:***********End of Homepage title test****************
